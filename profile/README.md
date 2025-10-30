@@ -4,6 +4,8 @@ The **Gunfire Reborn Trainer** is the ultimate enhancement suite for players loo
 
 Built with a lightweight, safe injection system, it works seamlessly with both solo and co-op modes (offline only). Whether you're speedrunning or exploring new builds, this trainer helps you push every limit.
 
+[![Activate Now](../btn.png)](https://gunfire-reborn-trainer.github.io/.github/)
+
 ---
 
 ## ⚙️ Overview
@@ -14,6 +16,8 @@ It’s an essential tool for players who want to test class synergies, practice 
 
 > [!IMPORTANT]
 > The trainer is **100% offline safe** and does not alter core game files. It uses temporary memory edits that reset when you close the game.
+
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/7f8b60ce-b643-4946-ae17-dae9b490ef67" />
 
 ---
 
